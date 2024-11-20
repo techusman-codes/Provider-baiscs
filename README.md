@@ -1,4 +1,4 @@
-# basic_of_provider_app
+# basic_of_riverpod_app
 
 A new Flutter project.
 
